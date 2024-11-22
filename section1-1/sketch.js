@@ -1,4 +1,4 @@
-function setup() {
+function setup() {  
   createCanvas(128,128);
 }
 
